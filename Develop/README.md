@@ -45,3 +45,7 @@ Test Often
 
 If you have any questions about the repository contact me directly at joseph@gmail.com.
 You can find my other work at [joseph@github](https://github.com/joseph@github/)
+
+## Link to video walkthrough 
+
+https://youtu.be/xvf3Noe9eK0
